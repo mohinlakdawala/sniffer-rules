@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~4.0|5.0.*",
-        "illuminate/console": "~4.0|5.0.*",
+        "illuminate/support": "~4.0|5.1.*",
+        "illuminate/console": "~4.0|5.1.*",
         "squizlabs/php_codesniffer": "2.*"
     },
     "autoload": {
